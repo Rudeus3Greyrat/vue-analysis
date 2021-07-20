@@ -2,13 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cbea5d3-e75b-425d-82ca-0e8d35c72206" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/vue/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/.idea/vue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/.idea/com-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com-demo/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/flow-test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/.idea/node-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/requestHandlers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-start/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/src/components/Hello.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-example/vue.global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next/.idea/vue-next.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-router/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_6_29__2_50_____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_6_29,_2_50_下午_取消提交了变更_[默认变更列表]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example" beforeDir="false" afterPath="$PROJECT_DIR$/example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +72,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/vue" value="dev" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vuex" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitToolBoxStore">
@@ -45,6 +108,17 @@
               </option>
               <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/vue" />
             </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1626695782" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/vuex" />
+            </RecentBranchesForRepo>
           </list>
         </option>
       </RecentBranches>
@@ -60,15 +134,58 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-next-example" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.语言默认值" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/vue/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vue-next-example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/example/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue-next/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue-next-example/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/example/package.json" />
       <command value="run" />
@@ -82,6 +199,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.serve" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -95,8 +215,21 @@
       <updated>1624426656982</updated>
       <workItem from="1624426658976" duration="52000" />
       <workItem from="1624427849335" duration="55064000" />
-      <workItem from="1625117372842" duration="8563000" />
+      <workItem from="1625117372842" duration="10589000" />
+      <workItem from="1625447899518" duration="30000" />
+      <workItem from="1625561362769" duration="13374000" />
+      <workItem from="1625734060213" duration="54976000" />
+      <workItem from="1626314869063" duration="10374000" />
+      <workItem from="1626414348385" duration="18734000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1625206294391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625206294391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,10 +245,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init" />
     <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vue-next-example/src/main.ts</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

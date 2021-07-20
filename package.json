@@ -1,0 +1,22 @@
+{
+  "name": "vue-analysis",
+  "version": "1.0.0",
+  "description": "Vue 源码分析",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rudeus3Greyrat/vue-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rudeus3Greyrat/vue-analysis/issues"
+  },
+  "homepage": "https://github.com/Rudeus3Greyrat/vue-analysis#readme",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}

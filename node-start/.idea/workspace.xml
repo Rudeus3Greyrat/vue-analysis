@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d33f1868-29dc-46ad-855f-7a018f364439" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/.idea/com-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-demo/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/node-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requestHandlers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/src/components/Hello.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-next-example/vue.global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-router" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/_2021_6_29__2_50_____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/shelf/在进行更新之前于_2021_6_29,_2_50_下午_取消提交了变更_[默认变更列表]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example" beforeDir="false" afterPath="$PROJECT_DIR$/../example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vYcFqetCEH9dW9AMyVHnpXSINr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.5" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d33f1868-29dc-46ad-855f-7a018f364439" name="默认变更列表" comment="" />
+      <created>1626742362161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626742362161</updated>
+      <workItem from="1626742363357" duration="4695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
